@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name ="DemoQA Automation Suite" parallel= "tests">
+<test name = "Droppable Test Case" >
+<classes>
+<class name ="com.demoqa.testcases.HomePageTest"></class>
+<class name ="com.demoqa.testcases.DroppablePageTest"></class>
+<class name ="com.demoqa.testcases.ResizablePageTest"></class>
+</classes>
+</test>
+</suite>

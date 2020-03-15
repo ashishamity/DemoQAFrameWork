@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13593" started-at="2020-03-15T20:30:02Z" finished-at="2020-03-15T20:30:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13593" started-at="2020-03-15T20:30:02Z" finished-at="2020-03-15T20:30:16Z">
+      <class name="com.demoqa.testcases.ResizablePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.demoqa.testcases.ResizablePageTest@5abca1e0]" name="setUp" is-config="true" duration-ms="11207" started-at="2020-03-15T20:30:02Z" finished-at="2020-03-15T20:30:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="performResize()[pri:0, instance:com.demoqa.testcases.ResizablePageTest@5abca1e0]" name="performResize" duration-ms="1651" started-at="2020-03-15T20:30:13Z" finished-at="2020-03-15T20:30:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- performResize -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demoqa.testcases.ResizablePageTest@5abca1e0]" name="tearDown" is-config="true" duration-ms="699" started-at="2020-03-15T20:30:15Z" finished-at="2020-03-15T20:30:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.demoqa.testcases.ResizablePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

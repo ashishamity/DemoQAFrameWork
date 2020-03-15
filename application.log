@@ -1,0 +1,70 @@
+2020-03-16 02:06:59,931  INFO [main] TestBase:25 - Before navigating to: 'https://demoqa.com/'
+2020-03-16 02:07:05,040  INFO [main] TestBase:29 - Navigated to:'https://demoqa.com/'
+2020-03-16 02:07:05,105  INFO [main] TestBase:75 - Trying to find Element By : By.xpath: //a[contains(text(),'Resizable')]
+2020-03-16 02:07:05,151  INFO [main] TestBase:79 - Found Element By : By.xpath: //a[contains(text(),'Resizable')]
+2020-03-16 02:07:05,163  INFO [main] TestBase:41 - Trying to click on: [[ChromeDriver: chrome on WINDOWS (ad947b938dc2329d1734249183f3f06e)] -> xpath: //a[contains(text(),'Resizable')]]
+2020-03-16 02:07:08,803  INFO [main] TestBase:46 - Clicked on: [[ChromeDriver: chrome on WINDOWS (ad947b938dc2329d1734249183f3f06e)] -> xpath: //a[contains(text(),'Resizable')]]
+2020-03-16 02:07:16,657  INFO [main] TestBase:25 - Before navigating to: 'https://demoqa.com/'
+2020-03-16 02:07:31,389  INFO [main] TestBase:29 - Navigated to:'https://demoqa.com/'
+2020-03-16 02:07:31,393  INFO [main] TestBase:75 - Trying to find Element By : By.xpath: //a[contains(text(),'Droppable')]
+2020-03-16 02:07:31,441  INFO [main] TestBase:79 - Found Element By : By.xpath: //a[contains(text(),'Droppable')]
+2020-03-16 02:07:31,442  INFO [main] TestBase:41 - Trying to click on: [[ChromeDriver: chrome on WINDOWS (59eed9e42f74bb4fe97ec38dd7a4655f)] -> xpath: //a[contains(text(),'Droppable')]]
+2020-03-16 02:07:36,984  INFO [main] TestBase:46 - Clicked on: [[ChromeDriver: chrome on WINDOWS (59eed9e42f74bb4fe97ec38dd7a4655f)] -> xpath: //a[contains(text(),'Droppable')]]
+2020-03-16 02:07:37,084  INFO [Forwarding actions on session 59eed9e42f74bb4fe97ec38dd7a4655f to remote] TestBase:75 - Trying to find Element By : By.id: draggable
+2020-03-16 02:07:37,115  INFO [Forwarding actions on session 59eed9e42f74bb4fe97ec38dd7a4655f to remote] TestBase:79 - Found Element By : By.id: draggable
+2020-03-16 02:07:37,116  INFO [Forwarding actions on session 59eed9e42f74bb4fe97ec38dd7a4655f to remote] TestBase:75 - Trying to find Element By : By.id: droppable
+2020-03-16 02:07:37,137  INFO [Forwarding actions on session 59eed9e42f74bb4fe97ec38dd7a4655f to remote] TestBase:79 - Found Element By : By.id: droppable
+2020-03-16 02:07:37,426  INFO [main] TestBase:75 - Trying to find Element By : By.id: droppable
+2020-03-16 02:07:37,442  INFO [main] TestBase:79 - Found Element By : By.id: droppable
+2020-03-16 02:07:45,886  INFO [main] TestBase:25 - Before navigating to: 'https://demoqa.com/'
+2020-03-16 02:08:03,630  INFO [main] TestBase:29 - Navigated to:'https://demoqa.com/'
+2020-03-16 02:08:03,632  INFO [main] TestBase:75 - Trying to find Element By : By.xpath: //a[contains(text(),'Droppable')]
+2020-03-16 02:08:03,664  INFO [main] TestBase:79 - Found Element By : By.xpath: //a[contains(text(),'Droppable')]
+2020-03-16 02:08:03,664  INFO [main] TestBase:41 - Trying to click on: [[ChromeDriver: chrome on WINDOWS (ad68e031a425f0d91e15e444bc3e7b78)] -> xpath: //a[contains(text(),'Droppable')]]
+2020-03-16 02:08:07,506  INFO [main] TestBase:46 - Clicked on: [[ChromeDriver: chrome on WINDOWS (ad68e031a425f0d91e15e444bc3e7b78)] -> xpath: //a[contains(text(),'Droppable')]]
+2020-03-16 02:08:07,511  INFO [Forwarding actions on session ad68e031a425f0d91e15e444bc3e7b78 to remote] TestBase:75 - Trying to find Element By : By.id: droppable
+2020-03-16 02:08:07,534  INFO [Forwarding actions on session ad68e031a425f0d91e15e444bc3e7b78 to remote] TestBase:79 - Found Element By : By.id: droppable
+2020-03-16 02:08:07,925  INFO [main] TestBase:75 - Trying to find Element By : By.id: droppable
+2020-03-16 02:08:07,939  INFO [main] TestBase:79 - Found Element By : By.id: droppable
+2020-03-16 02:08:07,948  INFO [main] TestBase:75 - Trying to find Element By : By.id: droppable
+2020-03-16 02:08:07,963  INFO [main] TestBase:79 - Found Element By : By.id: droppable
+2020-03-16 02:08:15,735  INFO [main] TestBase:25 - Before navigating to: 'https://demoqa.com/'
+2020-03-16 02:08:30,424  INFO [main] TestBase:29 - Navigated to:'https://demoqa.com/'
+2020-03-16 02:08:30,429  INFO [main] TestBase:75 - Trying to find Element By : By.xpath: //a[contains(text(),'Droppable')]
+2020-03-16 02:08:30,463  INFO [main] TestBase:79 - Found Element By : By.xpath: //a[contains(text(),'Droppable')]
+2020-03-16 02:08:30,463  INFO [main] TestBase:41 - Trying to click on: [[ChromeDriver: chrome on WINDOWS (112a307a5b20cb0fff7ae3110dc694cd)] -> xpath: //a[contains(text(),'Droppable')]]
+2020-03-16 02:08:32,003  INFO [main] TestBase:46 - Clicked on: [[ChromeDriver: chrome on WINDOWS (112a307a5b20cb0fff7ae3110dc694cd)] -> xpath: //a[contains(text(),'Droppable')]]
+2020-03-16 02:08:35,985  INFO [main] TestBase:25 - Before navigating to: 'https://demoqa.com/'
+2020-03-16 02:08:40,968  INFO [main] TestBase:29 - Navigated to:'https://demoqa.com/'
+2020-03-16 02:08:40,972  INFO [main] TestBase:75 - Trying to find Element By : By.xpath: //a[contains(text(),'Resizable')]
+2020-03-16 02:08:41,008  INFO [main] TestBase:79 - Found Element By : By.xpath: //a[contains(text(),'Resizable')]
+2020-03-16 02:08:41,009  INFO [main] TestBase:41 - Trying to click on: [[ChromeDriver: chrome on WINDOWS (43c8f0a34d8007019f259672d7619a1b)] -> xpath: //a[contains(text(),'Resizable')]]
+2020-03-16 02:08:42,265  INFO [main] TestBase:46 - Clicked on: [[ChromeDriver: chrome on WINDOWS (43c8f0a34d8007019f259672d7619a1b)] -> xpath: //a[contains(text(),'Resizable')]]
+2020-03-16 02:08:42,994  INFO [Forwarding actions on session ad947b938dc2329d1734249183f3f06e to remote] TestBase:75 - Trying to find Element By : By.cssSelector: .ui-resizable-handle.ui-resizable-se.ui-icon.ui-icon-gripsmall-diagonal-se
+2020-03-16 02:08:43,033  INFO [Forwarding actions on session ad947b938dc2329d1734249183f3f06e to remote] TestBase:79 - Found Element By : By.cssSelector: .ui-resizable-handle.ui-resizable-se.ui-icon.ui-icon-gripsmall-diagonal-se
+2020-03-16 02:08:43,419  INFO [main] TestBase:75 - Trying to find Element By : By.id: resizable
+2020-03-16 02:08:43,439  INFO [main] TestBase:79 - Found Element By : By.id: resizable
+2020-03-16 02:08:43,517  INFO [main] TestBase:33 - 
+Resize number 0:
+width: 183px; height: 183px;
+2020-03-16 02:08:43,519  INFO [Forwarding actions on session ad947b938dc2329d1734249183f3f06e to remote] TestBase:75 - Trying to find Element By : By.cssSelector: .ui-resizable-handle.ui-resizable-se.ui-icon.ui-icon-gripsmall-diagonal-se
+2020-03-16 02:08:43,533  INFO [Forwarding actions on session ad947b938dc2329d1734249183f3f06e to remote] TestBase:79 - Found Element By : By.cssSelector: .ui-resizable-handle.ui-resizable-se.ui-icon.ui-icon-gripsmall-diagonal-se
+2020-03-16 02:08:43,898  INFO [main] TestBase:75 - Trying to find Element By : By.id: resizable
+2020-03-16 02:08:43,917  INFO [main] TestBase:79 - Found Element By : By.id: resizable
+2020-03-16 02:08:43,933  INFO [main] TestBase:33 - 
+Resize number 1:
+width: 216px; height: 216px;
+2020-03-16 02:08:43,935  INFO [Forwarding actions on session ad947b938dc2329d1734249183f3f06e to remote] TestBase:75 - Trying to find Element By : By.cssSelector: .ui-resizable-handle.ui-resizable-se.ui-icon.ui-icon-gripsmall-diagonal-se
+2020-03-16 02:08:43,950  INFO [Forwarding actions on session ad947b938dc2329d1734249183f3f06e to remote] TestBase:79 - Found Element By : By.cssSelector: .ui-resizable-handle.ui-resizable-se.ui-icon.ui-icon-gripsmall-diagonal-se
+2020-03-16 02:08:44,315  INFO [main] TestBase:75 - Trying to find Element By : By.id: resizable
+2020-03-16 02:08:44,337  INFO [main] TestBase:79 - Found Element By : By.id: resizable
+2020-03-16 02:08:44,350  INFO [main] TestBase:33 - 
+Resize number 2:
+width: 249px; height: 249px;
+2020-03-16 02:08:44,351  INFO [Forwarding actions on session ad947b938dc2329d1734249183f3f06e to remote] TestBase:75 - Trying to find Element By : By.cssSelector: .ui-resizable-handle.ui-resizable-se.ui-icon.ui-icon-gripsmall-diagonal-se
+2020-03-16 02:08:44,366  INFO [Forwarding actions on session ad947b938dc2329d1734249183f3f06e to remote] TestBase:79 - Found Element By : By.cssSelector: .ui-resizable-handle.ui-resizable-se.ui-icon.ui-icon-gripsmall-diagonal-se
+2020-03-16 02:08:44,726  INFO [main] TestBase:75 - Trying to find Element By : By.id: resizable
+2020-03-16 02:08:44,750  INFO [main] TestBase:79 - Found Element By : By.id: resizable
+2020-03-16 02:08:44,766  INFO [main] TestBase:33 - 
+Resize number 3:
+width: 282px; height: 282px;

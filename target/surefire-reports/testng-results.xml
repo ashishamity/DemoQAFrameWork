@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="111335" started-at="2020-03-15T20:36:53Z" finished-at="2020-03-15T20:38:44Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="111335" started-at="2020-03-15T20:36:53Z" finished-at="2020-03-15T20:38:44Z">
+      <class name="com.demoqa.testcases.HomePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.demoqa.testcases.HomePageTest@1753acfe]" name="setup" is-config="true" duration-ms="21008" started-at="2020-03-15T20:38:09Z" finished-at="2020-03-15T20:38:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="openDroppableLink()[pri:0, instance:com.demoqa.testcases.HomePageTest@1753acfe]" name="openDroppableLink" duration-ms="1575" started-at="2020-03-15T20:38:30Z" finished-at="2020-03-15T20:38:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openDroppableLink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demoqa.testcases.HomePageTest@1753acfe]" name="tearDown" is-config="true" duration-ms="664" started-at="2020-03-15T20:38:32Z" finished-at="2020-03-15T20:38:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.demoqa.testcases.HomePageTest@1753acfe]" name="setup" is-config="true" duration-ms="8300" started-at="2020-03-15T20:38:32Z" finished-at="2020-03-15T20:38:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="openResizableLink()[pri:0, instance:com.demoqa.testcases.HomePageTest@1753acfe]" name="openResizableLink" duration-ms="1295" started-at="2020-03-15T20:38:40Z" finished-at="2020-03-15T20:38:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openResizableLink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demoqa.testcases.HomePageTest@1753acfe]" name="tearDown" is-config="true" duration-ms="721" started-at="2020-03-15T20:38:42Z" finished-at="2020-03-15T20:38:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.demoqa.testcases.HomePageTest -->
+      <class name="com.demoqa.testcases.ResizablePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.demoqa.testcases.ResizablePageTest@4f933fd1]" name="setUp" is-config="true" duration-ms="15385" started-at="2020-03-15T20:36:53Z" finished-at="2020-03-15T20:37:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="performResize()[pri:0, instance:com.demoqa.testcases.ResizablePageTest@4f933fd1]" name="performResize" duration-ms="1775" started-at="2020-03-15T20:38:42Z" finished-at="2020-03-15T20:38:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- performResize -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demoqa.testcases.ResizablePageTest@4f933fd1]" name="tearDown" is-config="true" duration-ms="0" started-at="2020-03-15T20:38:44Z" finished-at="2020-03-15T20:38:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.demoqa.testcases.ResizablePageTest -->
+      <class name="com.demoqa.testcases.DroppablePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.demoqa.testcases.DroppablePageTest@548a9f61]" name="setUp" is-config="true" duration-ms="28150" started-at="2020-03-15T20:37:08Z" finished-at="2020-03-15T20:37:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="dragAndDrop()[pri:0, instance:com.demoqa.testcases.DroppablePageTest@548a9f61]" name="dragAndDrop" duration-ms="486" started-at="2020-03-15T20:37:36Z" finished-at="2020-03-15T20:37:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dragAndDrop -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demoqa.testcases.DroppablePageTest@548a9f61]" name="tearDown" is-config="true" duration-ms="1494" started-at="2020-03-15T20:37:37Z" finished-at="2020-03-15T20:37:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.demoqa.testcases.DroppablePageTest@548a9f61]" name="setUp" is-config="true" duration-ms="28536" started-at="2020-03-15T20:37:38Z" finished-at="2020-03-15T20:38:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="dragBack()[pri:0, instance:com.demoqa.testcases.DroppablePageTest@548a9f61]" name="dragBack" duration-ms="482" started-at="2020-03-15T20:38:07Z" finished-at="2020-03-15T20:38:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dragBack -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demoqa.testcases.DroppablePageTest@548a9f61]" name="tearDown" is-config="true" duration-ms="1427" started-at="2020-03-15T20:38:07Z" finished-at="2020-03-15T20:38:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.demoqa.testcases.DroppablePageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
