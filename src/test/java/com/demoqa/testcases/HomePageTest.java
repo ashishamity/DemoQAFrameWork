@@ -17,6 +17,7 @@ public class HomePageTest extends TestBase {
 
 	public HomePageTest() {
 		super();
+		
 	}
 	
 	@BeforeMethod
