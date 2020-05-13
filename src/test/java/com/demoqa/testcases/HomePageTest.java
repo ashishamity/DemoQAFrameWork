@@ -16,7 +16,7 @@ public class HomePageTest extends TestBase {
 	ResizablePage resizePage;
 
 	public HomePageTest() {
-		super();
+		super()
 		
 	}
 	
